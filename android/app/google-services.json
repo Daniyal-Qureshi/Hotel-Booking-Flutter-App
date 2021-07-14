@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765677362039",
+    "project_id": "medicine-delivery-ada76",
+    "storage_bucket": "medicine-delivery-ada76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765677362039:android:df41e67ce90a6a2f9a9f72",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765677362039-crqa94dnlh8ff863oj9i87morqfcvegk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyoqu5E1muauBWV3_OkK1t6FTjHaJwcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765677362039-crqa94dnlh8ff863oj9i87morqfcvegk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
